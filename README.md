@@ -1,3 +1,5 @@
+Dataset1: AdventureWorksLT2017
+
 Repozytorium dokumentuje moją naukę w zakresie projektowania relacyjnych baz danych oraz analizy danych biznesowych.
 Silnik: Microsoft SQL Server
 Środowiska: SQL Server Management Studio (SSMS) oraz Visual Studio Code (VS Code/Jupyter Notebooks)
